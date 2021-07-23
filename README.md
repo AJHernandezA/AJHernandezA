@@ -5,7 +5,7 @@
 </a>
 
 
- <strong>Full-Stack JavaScript Developer in progress</strong>.
+ <strong>Junior Full-Stack JavaScript Developer in progress</strong>.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ##### NOW
