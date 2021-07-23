@@ -10,14 +10,14 @@ I'm Adolfo Hernandez <strong>Full-Stack JavaScript Developer in progress</strong
 
 ##### NOW
 
-- ✨ I'm learning about nodeJs-TypeScript
+- ✨ I'm learning about nodeJs - TypeScript
 - 🇨🇴 I'm from Colombia;
 - 💯 A lot motivation
 
 ##### BIO
 
 - 🏢 I'm currently studying Mecatronic Engeenring 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`,`scss`, `.py`  
+- ⚙️ I use daily: `.js`, `.html`, `.css`,`scss`, `.py`,`.php`  
 - 🌍 I'm mostly active within the FreeCodeBootcamp and The Odin Project community
 
 ##### Languages and Tools  
