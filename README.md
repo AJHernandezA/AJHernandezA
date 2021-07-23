@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi,I'm Adolfo Hernandez 👋
 
 <a href="https://www.linkedin.com/in/adolfo-jose-hernandezap/">
   <img align="left" alt="AdolfoJHA LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
-I'm Adolfo Hernandez <strong>Full-Stack JavaScript Developer in progress</strong>.
+ <strong>Full-Stack JavaScript Developer in progress</strong>.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ##### NOW
