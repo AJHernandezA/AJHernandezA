@@ -4,7 +4,8 @@
   <img align="left" alt="AdolfoJHA LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <hr>
-#### Full-Stack JavaScript Developer in progress.
+
+I'm Adolfo Hernandez <strong>Full-Stack JavaScript Developer in progress</strong>.
 
 ##### NOW
 
