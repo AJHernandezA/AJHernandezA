@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Full-Stack Developer in progress.
+#### Full-Stack JavaScript Developer in progress.
 
 ##### NOW
 
@@ -11,5 +11,6 @@
 ##### BIO
 
 - 🏢 I'm currently studying Mecatronic Engeenring 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`,`scss` ,  
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`,`scss`  
+- Tech: Html, Css, Vainilla JavaScript, React, php 
 - 🌍 I'm mostly active within the FreeCodeBootcamp and The Odin Project community
