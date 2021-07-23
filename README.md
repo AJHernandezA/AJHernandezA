@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AJHernandezA/AJHernandezA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full-Stack Developer in progress.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ I'm learning about nodeJs-TypeScript
+- 🇨🇴 I'm from Colombia;
+- 💯 A lot motivation
+
+##### BIO
+
+- 🏢 I'm currently studying Mecatronic Engeenring 
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`,`scss` ,  
+- 🌍 I'm mostly active within the FreeCodeBootcamp and The Odin Project community
