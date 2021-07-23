@@ -17,7 +17,7 @@ I'm Adolfo Hernandez <strong>Full-Stack JavaScript Developer in progress</strong
 
 - 🏢 I'm currently studying Mecatronic Engeenring 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`,`scss`, `.py`  
-- 🌍 I'm mostly active within the FreeCodeBootcamp and The Odin Project communit
+- 🌍 I'm mostly active within the FreeCodeBootcamp and The Odin Project community
 
 ##### Languages and Tools  
 
