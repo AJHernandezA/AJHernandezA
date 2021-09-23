@@ -17,7 +17,7 @@
 ##### BIO
 
 - 🏢 I'm currently studying Mecatronic Engeenring 
-- ⚙️ I use daily: `.js`, `.html`, `.css`,`scss`,`.php`  
+- ⚙️ I use daily: `.js`, `.html`, `.css`,`.scss`,`.php`  
 - 🌍 I'm mostly active within the FreeCodeBootcamp and The Odin Project community
 
 ##### Languages and Tools  
