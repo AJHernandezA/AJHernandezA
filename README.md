@@ -10,7 +10,7 @@
 
 ##### NOW
 
-- ✨ I'm learning about nodeJs - TypeScript
+- ✨ I'm learning about nodeJs - TypeScript -React
 - 🇨🇴 I'm from Colombia;
 - 💯 A lot motivation
 
