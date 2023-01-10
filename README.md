@@ -5,19 +5,19 @@
 </a>
 
 
- <strong>Junior Full-Stack JavaScript Developer in progress</strong>.
+ <strong>FrontEnd Developer</strong>.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ##### NOW
-
-- ✨ I'm learning about nodeJs - TypeScript -React
-- 🇨🇴 I'm from Colombia;
+- 🧠 My stack: React, TypeScript, NodeJs, SQL, Express 
+- ✨ I'm learning about NEXT.js, Nextjs, Astro, GO
+- 🇨🇴 I'm from Colombia
 - 💯 A lot motivation
 
 ##### BIO
 
-- 🏢 I'm currently studying Mecatronic Engeenring 
-- ⚙️ I use daily: `.js`, `.html`, `.css`,`.scss`,`.php`  
+- 🏢 I am a graduate of mechanical engineering 
+- ⚙️ I use daily: `.js`, `.html`, `.css`,`.scss`,`.py`   
 - 🌍 I'm mostly active within the FreeCodeBootcamp and The Odin Project community
 
 ##### Languages and Tools  
