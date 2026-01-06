@@ -10,15 +10,14 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </a>
 ##### NOW
-- 🧠 My stack: React, TypeScript, NodeJs, SQL, Express 
-- ✨ I'm learning about NEXT.js, Nextjs, Astro, GO
+- 🧠 My stack: React, TypeScript, NodeJs, SQL, Express, NEXT.js, Nextjs, Astro, GO
 - 🇨🇴 I'm from Colombia
 - 💯 A lot motivation
 
 ##### BIO
 
 - 🏢 I am a graduate of mechanical engineering 
-- ⚙️ I use daily: `.js`, `.html`, `.css`,`.scss`,`.py`   
+- ⚙️ I use daily: `.js`, `.html`, `.css`,`.scss`, `.tsx`, `.ts`, `.json`, `.md`    
 - 🌍 I'm mostly active within the FreeCodeBootcamp and The Odin Project community
 
 ##### Languages and Tools  
